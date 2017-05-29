@@ -1,8 +1,8 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Piccolo Theme</title>
+<title>TEAM</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- CSS
@@ -45,7 +45,7 @@
         <!-- Logo
         ================================================== -->
         <div class="span3 logo">
-        	<a href="main.php"><img src="img/pp.png" alt="" /></a>
+        	<a href="index.php"><img src="img/pp.png" alt="" /></a>
             <h3>กลุ่มที่ 8 Web592group08</h3>
         </div>
         
